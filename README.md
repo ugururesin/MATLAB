@@ -1,7 +1,7 @@
 # MATLAB Notes - Ugur Uresin
 
 ## Contact
-* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresinugur35@gmail.com.tr](mailto:uresin.ugur@gmail.com.tr)
+* [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com.tr](mailto:uresin.ugur@gmail.com.tr)
 
 ## License
 This content is created by [Ugur Uresin](mailto:uresin.ugur@gmail.com.tr) and shared to public for training purposes.  
